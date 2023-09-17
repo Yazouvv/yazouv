@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛡️Currently Administrator for RevolutionRP<br>⌨️Dev Lua<br>🚔Creator of fiveM scripts<br>🖥️I like html,css, and php
+<br>⌨️Dev Lua<br>🚔Creator of fiveM scripts<br>🖥️I like html,css, and php
 
 
 ## 🌐 Socials:
