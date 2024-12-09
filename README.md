@@ -20,3 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazouv&" alt="yazouv" /></p>
 
+[![wakatime](https://wakatime.com/badge/user/018d7a85-563f-4eb0-97d8-e906baef7611.svg)](https://wakatime.com/@018d7a85-563f-4eb0-97d8-e906baef7611)
+
